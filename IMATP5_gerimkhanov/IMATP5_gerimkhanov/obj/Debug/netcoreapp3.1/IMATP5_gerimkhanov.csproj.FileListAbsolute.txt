@@ -1,0 +1,14 @@
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\obj\Debug\netcoreapp3.1\IMATP5_gerimkhanov.csproj.AssemblyReference.cache
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\obj\Debug\netcoreapp3.1\IMATP5_gerimkhanov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\obj\Debug\netcoreapp3.1\IMATP5_gerimkhanov.AssemblyInfoInputs.cache
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\obj\Debug\netcoreapp3.1\IMATP5_gerimkhanov.AssemblyInfo.cs
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\obj\Debug\netcoreapp3.1\IMATP5_gerimkhanov.csproj.CoreCompileInputs.cache
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\bin\Debug\netcoreapp3.1\IMATP5_gerimkhanov.exe
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\bin\Debug\netcoreapp3.1\IMATP5_gerimkhanov.deps.json
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\bin\Debug\netcoreapp3.1\IMATP5_gerimkhanov.runtimeconfig.json
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\bin\Debug\netcoreapp3.1\IMATP5_gerimkhanov.runtimeconfig.dev.json
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\bin\Debug\netcoreapp3.1\IMATP5_gerimkhanov.dll
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\bin\Debug\netcoreapp3.1\IMATP5_gerimkhanov.pdb
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\obj\Debug\netcoreapp3.1\IMATP5_gerimkhanov.dll
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\obj\Debug\netcoreapp3.1\IMATP5_gerimkhanov.pdb
+C:\Users\200460.asty-moulin\source\repos\IMATP5_gerimkhanov\IMATP5_gerimkhanov\obj\Debug\netcoreapp3.1\IMATP5_gerimkhanov.genruntimeconfig.cache
